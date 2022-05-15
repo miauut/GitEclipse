@@ -90,3 +90,5 @@ super.tulostaTiedot();
 		System.out.println("Nopeus: " + nopeus + "km/h");
 	}	
 }
+
+//olipas mukava koodata tällä kurssilla
