@@ -92,3 +92,5 @@ super.tulostaTiedot();
 }
 
 //olipas mukava koodata tällä kurssilla
+
+// toinen kommentti kurssia varten
